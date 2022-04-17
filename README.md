@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wintozoro
+- 👀 I’m interested in programming / software-engineering.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on everything
